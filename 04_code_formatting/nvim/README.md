@@ -19,7 +19,7 @@ Simple setup for getting started with neovim
 - `nvim-autopairs`  autopair plugin  (https://github.com/windwp/nvim-autopairs)
 - `nvim-ufo` code folding (https://github.com/kevinhwang91/nvim-ufo)
 - `conform` formatter (https://github.com/stevearc/conform.nvim)
-- `alpha-nvim` completion plugin (https://github.com/hrsh7th/nvim-cmp)
+- `nvim-cmp` completion plugin (https://github.com/hrsh7th/nvim-cmp)
 
 ## requirements
 
