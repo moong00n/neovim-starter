@@ -1,6 +1,6 @@
 # neovim-starter
 
-> Repository for hosting various Neovim configurations (lua based) / Neovim 설정 모음집 (lua 기반)
+> Repository for hosting various Neovim configurations (lua based) / Neovim 설정 모음집 (lua 기반) 🚀
 
 ## what's it for?
 
@@ -31,7 +31,8 @@ Each directory contains its own `README.md` with specific instructions and detai
 For beginners, it's recommended to watch the introduction video tutorial before diving into the configurations.
 초보자의 경우, 설정을 시작하기 전에 소개 영상 튜토리얼을 시청하는 것을 추천합니다
 
-https://youtu.be/u6S71cpMfw8?si=ptT35fMpKGTFeskC
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/u6S71cpMfw8/0.jpg)](https://www.youtube.com/watch?v=u6S71cpMfw8)
+
 
 Checkout the README.md file in each directory to see what's included
 
@@ -45,4 +46,4 @@ MIT
 
 Feel free to open issues or pull requests for improvements or bug fixes.
 
-개선사항이나 버그 수정을 위한 이슈 또는 풀 리퀘스트는 언제든 환영합니다.
+개선사항이나 버그 수정을 위한 이슈 또는 풀 리퀘스트는 언제든 환영합니다 🙇‍♂️
