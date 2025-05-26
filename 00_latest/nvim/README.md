@@ -12,19 +12,18 @@ My latest neovim config
 - `lualine` neovim statusline plugin (https://github.com/nvim-lualine/lualine.nvim)
 - `mason` package manager (https://github.com/williamboman/mason.nvim)
 - `mason-lspconfig` Extension to mason.nvim (https://github.com/williamboman/mason-lspconfig.nvim)
-- `nvim-lspconfig` configs for Nvim LSP (https://github.com/neovim/nvim-lspconfig)
 - `telescope-ui-select` sets vim.ui.select to telescope. (https://github.com/nvim-telescope/telescope-ui-select.nvim)
 - `alpha-nvim` custom greeter UI/dashboard (https://github.com/goolord/alpha-nvim)
-- `nvim-autopairs`  autopair plugin  (https://github.com/windwp/nvim-autopairs)
+- `nvim-autopairs` autopair plugin (https://github.com/windwp/nvim-autopairs)
 - `nvim-ufo` code folding (https://github.com/kevinhwang91/nvim-ufo)
 - `conform` formatter (https://github.com/stevearc/conform.nvim)
 - `nvim-cmp` completion plugin (https://github.com/hrsh7th/nvim-cmp)
 - `nvim-dap` plugin for DAP, debug adapter protocol (https://github.com/mfussenegger/nvim-dap)
-- `rasmus` color scheme (https://github.com/kvrohit/rasmus.nvim)
+- `mellifuous` color scheme (https://github.com/ramojus/mellifuous.nvim)
 
 ## requirements
 
-- Neovim (v0.9.0) or the latest neovim nightly
+- Neovim (v0.11.0)
 - ripgrep (https://github.com/BurntSushi/ripgrep)
 - Nerd Font (optional)
 
@@ -35,6 +34,7 @@ My latest neovim config
 ```bash
 ~/.config # not included in this repo ()
     /nvim
+        /lsp # lsp configuration files
         /lua # init.lua
             /config  # config .lua files
             /plugins # plugins here (lazy package manager)
