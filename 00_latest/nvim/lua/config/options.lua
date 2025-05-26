@@ -18,9 +18,13 @@ opt.number = true
 opt.relativenumber = true
 opt.termguicolors = true
 opt.signcolumn = "yes"
+opt.winborder = 'rounded' -- rounded borders in floating windows
 
 -- etc
 opt.encoding = "UTF-8"
 opt.cmdheight = 1
 opt.scrolloff = 10
 opt.mouse:append("a")
+
+
+opt.clipboard = "unnamedplus"

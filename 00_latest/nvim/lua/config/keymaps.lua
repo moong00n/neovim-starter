@@ -13,7 +13,7 @@ mapKey("<C-l>", "<C-w>l") -- Right
 mapKey("<leader>h", ":nohlsearch<CR>")
 
 -- diagnostic flaot
-mapKey("<leader>i", ":lua vim.diagnostic.open_float()<CR>")
+mapKey("dia", ":lua vim.diagnostic.open_float()<CR>")
 
 -- indent
 mapKey("<", "<gv", "v")

@@ -7,8 +7,9 @@ return {
 
         local hooks = require("ibl.hooks")
 
+
         hooks.register(hooks.type.HIGHLIGHT_SETUP, function()
-            vim.api.nvim_set_hl(0, "passive", { fg = "#3E3E3E" })
+            vim.api.nvim_set_hl(0, "passive", { fg = "#1d1d1d" })
         end)
 
         require("ibl").setup({
